@@ -5,7 +5,7 @@
 ## Welcome! 👋
 
 ## My Attempt
-![Mine](https://veinhugain.github.io/FEM-stats-preview-card-component/)
+[Mine](https://veinhugain.github.io/FEM-stats-preview-card-component/)
 
 Thanks for checking out this front-end coding challenge.
 
